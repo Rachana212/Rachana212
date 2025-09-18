@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rachana-n-987520270/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D5635AQHCLmHsSREEeA/profile-framedphoto-shrink_400_400/B56ZkoM_PJJsAc-/0/1757316118190?e=1758798000&v=beta&t=JtFkXT2VIp84yDQWEHpHZVjT1LO0e7oyry97Jfx2zBo"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
