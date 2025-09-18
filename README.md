@@ -1,5 +1,3 @@
-Rachana N
-
 <p align="center">
   <h3>Rachana N</h3>
   <br>
