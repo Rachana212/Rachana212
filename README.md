@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rachana-n-987520270/" target="_blank">
+  <a href="https://www.linkedin.com/in/rachana-n-987520270/">
     <img src="Rachana N"/>
   </a>
 </p>
