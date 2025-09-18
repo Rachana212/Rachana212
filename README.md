@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rachana-n-987520270"/ target="_blank">
 
-    <img src="https://img.shields.io/badge/LinkedIn- Rachana N -blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn- Rachana N -purple?style=for-the-badge&logo=linkedin" />
 
   </a>
    
