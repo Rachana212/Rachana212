@@ -23,17 +23,13 @@
 - 🤝 Open to collaborating on **Python, SQL, Machine Learning, and Computer Vision** projects.
 - 📫 Reach me at: [rachananariyanga28@gmail.com](mailto:rachananariyanga28@gmail.com)
 
+
 ## 🚀 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,js,html,css"/>
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,flask,django,fastapi"/>
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,netlify,vercel"/>
-</p>
-<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css"/> <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,flask,django,fastapi"/> <br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,netlify,vercel"/> <br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,tensorflow,numpy,pandas,matplotlib,sklearn"/>
 </p>
+
