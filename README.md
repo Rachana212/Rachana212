@@ -26,10 +26,10 @@
 
 ## 🚀 Languages and Tools
 
+## 🚀 Languages and Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,js,html,css"/> <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,flask,django,fastapi"/> <br/>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,netlify,vercel"/> <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,tensorflow,numpy,pandas,matplotlib,sklearn"/>
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,mysql,sqlite,flask,django,fastapi,aws,azure,gcp,docker,kubernetes,netlify,vercel,git,github,vscode,jupyter,tensorflow,numpy,pandas,matplotlib,sklearn"/>
 </p>
+
 
