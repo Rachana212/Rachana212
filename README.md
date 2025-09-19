@@ -14,7 +14,7 @@
   </a>
 </p>
 
-## 🙋‍♂ About Me
+## : 🙋‍♀About Me
 
 - 🧑‍💻 Currently working as a **Data scientist** and **AI/ML Intern** at **Analogica Software Development**, Bengaluru.
 - 📚 Pursuing **MCA** with a strong focus on **Data Science** and **Artificial Intelligence**.
