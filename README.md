@@ -23,9 +23,6 @@
 - 🤝 Open to collaborating on **Python, SQL, Machine Learning, and Computer Vision** projects.
 - 📫 Reach me at: [rachananariyanga28@gmail.com](mailto:rachananariyanga28@gmail.com)
 
-
-## 🚀 Languages and Tools
-
 ## 🚀 Languages and Tools
 
 <p align="left">
