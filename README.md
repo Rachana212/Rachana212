@@ -1,6 +1,6 @@
 <p align="center">
-  <h3> Rachana N </h3>
-  <br>
+  Hi, I'm Rachana N
+</p>
   **Data Scientist | ML Engineer**
 </p>
 
