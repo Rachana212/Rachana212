@@ -5,22 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rachana-n-987520270"/ target="_blank">
-
-    <img src="https://img.shields.io/badge/LinkedIn- Rachana N -blue?style=for-the-badge&logo=linkedin" />
-
+  <a href="https://www.linkedin.com/in/rachana-n-987520270/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rachana%20N-blue?style=for-the-badge&logo=linkedin" />
   </a>
-   
-  </a>
-</p>
-<p align="center">
-  <a href="https://rachana212.github.io/Portfolio/"target="_blank">
-
-    <img src="https://img.shields.io/badge/Portfolio- Rachana N -blue?style=for-the-badge&logo=Portfolio" />
-
+    <a href="https://rachana212.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Rachana%20N-blue?style=for-the-badge&logo=Portfolio" />
   </a>
-   
-  </a>
 </p>
 
 ## : 🙋‍♀About Me
