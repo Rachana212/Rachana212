@@ -1,7 +1,7 @@
 <p align="center">
-  <h3>Rachana N</h3>
+  <h3> Rachana N </h3>
   <br>
-  Data Scientist | ML Engineer
+  **Data Scientist | ML Engineer**
 </p>
 
 <p align="center">
