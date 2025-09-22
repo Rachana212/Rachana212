@@ -1,5 +1,5 @@
 <p align="center">
-  <h3>Rachana N</h3>
+  <h1>Rachana N</h1>
   <br>
   **Data Scientist | ML Engineer**
 </p>
