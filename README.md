@@ -1,17 +1,15 @@
 <p align="center">
-  <h3>N R Pratiksha</h3>
+  <h3>Rachana N</h3>
   <br>
   **Data Scientist | ML Engineer**
   <br>
   <br>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rachana-n-987520270/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rachana%20N-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-    <a href="https://rachana212.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Rachana%20N-purple?style=for-the-badge&logo=Portfolio" />
-  </a>
+  <a href="https://www.linkedin.com/in/rachana-n-987520270/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rachana%20N-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
+  </a>
+  <a href="https://rachana212.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Rachana%20N-purple?style=for-the-badge&logo=Portfolio" alt="Portfolio"/>
+  </a>
 </p>
 
 ## : 🙋‍♀About Me
