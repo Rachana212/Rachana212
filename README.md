@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Rachana%20N-blue?style=for-the-badge&logo=linkedin" />
   </a>
     <a href="https://rachana212.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Rachana%20N-blue?style=for-the-badge&logo=Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Rachana%20N-purple?style=for-the-badge&logo=Portfolio" />
   </a>
 </p>
 
