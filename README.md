@@ -1,8 +1,9 @@
 <p align="center">
-  <h1>Rachana N</h1>
+  <h3>N R Pratiksha</h3>
   <br>
   **Data Scientist | ML Engineer**
-</p>
+  <br>
+  <br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rachana-n-987520270/" target="_blank">
