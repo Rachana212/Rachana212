@@ -69,7 +69,8 @@ A Machine Learning–based predictive system that classifies tumors as **benign 
 
 ---
 
-## 📂 Other Projects  
-I’m also working on several other projects across domains like **Machine Learning, Data Science, and AI applications**.  
-You can explore them in my repositories section.  
+## 📂 Other Projects
+I’m also working on several projects across domains like **Machine Learning, Data Science, and AI applications**.  
+You can explore them in my [repositories section]().
+  
 
