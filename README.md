@@ -29,8 +29,6 @@
 
 ### 🚀 Languages and Tools
 
-### 🚀 Languages and Tools for [Your Role Here]
-
 <img src="https://skillicons.dev/icons?i=py,java,js,html,css,mysql,sqlite,flask,django,fastapi,aws,azure,gcp,docker,kubernetes,git,github,vscode,jupyter,tensorflow,numpy,pandas,matplotlib,sklearn" alt="Languages and Tools"/>
 
 ## 🚀 Major Projects  
