@@ -38,3 +38,60 @@
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,tensorflow,numpy,pandas,matplotlib,sklearn" alt="Tools and Libraries"/>
 </p>
+
+# 👋 Hi, I'm Rachana N  
+
+🎓 MCA Student at KLESNC | 💻 Aspiring Data Scientist & Full-Stack Developer | 📊 Passionate about AI, ML, and Data Analytics  
+
+---
+
+## 🚀 Tech Stack  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,flask,django,fastapi" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,jupyter,keras" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,git,github,docker,vscode" />
+</p>
+
+---
+
+## 🚀 Major Projects  
+
+### 📊 SmartSales Elite Reporter  
+A Flask-based reporting system designed to simplify sales report generation and delivery.  
+
+**Key Features:**  
+- Integrated **Google Forms → Google Sheets → SQLite DB** pipeline for transaction storage.  
+- Automated **PDF report generation** using ReportLab & Gemini AI API.  
+- Email delivery system via **SMTP (Gmail)** for sending daily reports.  
+- 📊 Interactive **Dashboard** with total transactions, sales summary, and charts (Chart.js/Plotly).  
+- Admin **Login System** with protected routes for dashboard and report management.  
+
+🔗 [View Repository](https://github.com/your-username/SmartSales-Elite-Reporter)  
+
+---
+
+### 🏥 Breast Cancer Prediction  
+A Machine Learning–based predictive system that classifies tumors as **benign or malignant**.  
+
+**Key Features:**  
+- Implemented classification algorithms (Logistic Regression, Random Forest, SVM).  
+- Performed **Data Preprocessing & EDA** for feature selection and cleaning.  
+- Evaluated models with metrics such as **accuracy, precision, recall, and F1-score**.  
+- Built a simple **Flask web app** for interactive cancer prediction.  
+
+🔗 [View Repository](https://github.com/your-username/Breast-Cancer-Prediction)  
+
+---
+
+## 📂 Other Projects  
+I’m also working on several other projects across domains like **Machine Learning, Data Science, and AI applications**.  
+You can explore them in my repositories section.  
+
