@@ -52,7 +52,7 @@ A Flask-based reporting system designed to simplify sales report generation and 
 - 📊 Interactive **Dashboard** with total transactions, sales summary, and charts (Chart.js/Plotly).  
 - Admin **Login System** with protected routes for dashboard and report management.  
 
-🔗 [View Repository]()  
+🔗 [View Repository](https://github.com/Rachana212/SmartSales_Elite_Reporter)  
 
 ---
 
@@ -65,7 +65,7 @@ A Machine Learning–based predictive system that classifies tumors as **benign 
 - Evaluated models with metrics such as **accuracy, precision, recall, and F1-score**.  
 - Built a simple **Flask web app** for interactive cancer prediction.  
 
-🔗 [View Repository](https://github.com/your-username/Breast-Cancer-Prediction)  
+🔗 [View Repository](https://github.com/Rachana212/Cancer_prediction)  
 
 ---
 
