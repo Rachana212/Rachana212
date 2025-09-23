@@ -39,28 +39,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,tensorflow,numpy,pandas,matplotlib,sklearn" alt="Tools and Libraries"/>
 </p>
 
-# 👋 Hi, I'm Rachana N  
-
-🎓 MCA Student at KLESNC | 💻 Aspiring Data Scientist & Full-Stack Developer | 📊 Passionate about AI, ML, and Data Analytics  
-
----
-
-## 🚀 Tech Stack  
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,js,html,css" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,flask,django,fastapi" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,jupyter,keras" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,git,github,docker,vscode" />
-</p>
-
----
 
 ## 🚀 Major Projects  
 
@@ -74,7 +52,7 @@ A Flask-based reporting system designed to simplify sales report generation and 
 - 📊 Interactive **Dashboard** with total transactions, sales summary, and charts (Chart.js/Plotly).  
 - Admin **Login System** with protected routes for dashboard and report management.  
 
-🔗 [View Repository](https://github.com/your-username/SmartSales-Elite-Reporter)  
+🔗 [View Repository]()  
 
 ---
 
