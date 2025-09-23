@@ -29,16 +29,9 @@
 
 ### 🚀 Languages and Tools
 
-<p >
-<img src="https://skillicons.dev/icons?i=py,java,js,html,css" alt="Languages"/>
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,flask,django,fastapi" alt="Frameworks and Databases"/>
-<br>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,netlify,vercel" alt="Cloud and DevOps"/>
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,tensorflow,numpy,pandas,matplotlib,sklearn" alt="Tools and Libraries"/>
-</p>
+### 🚀 Languages and Tools for [Your Role Here]
 
+<img src="https://skillicons.dev/icons?i=py,java,js,html,css,mysql,sqlite,flask,django,fastapi,aws,azure,gcp,docker,kubernetes,git,github,vscode,jupyter,tensorflow,numpy,pandas,matplotlib,sklearn" alt="Languages and Tools"/>
 
 ## 🚀 Major Projects  
 
