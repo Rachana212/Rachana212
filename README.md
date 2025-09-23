@@ -71,6 +71,6 @@ A Machine Learning–based predictive system that classifies tumors as **benign 
 
 ## 📂 Other Projects
 I’m also working on several projects across domains like **Machine Learning, Data Science, and AI applications**.  
-You can explore them in my [repositories section]().
+You can explore them in my [repositories section](https://github.com/Rachana212?tab=repositories).
   
 
